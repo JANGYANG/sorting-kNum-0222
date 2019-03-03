@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "sorting.kNum.App",
+            "projectName": "sorting-kNum-0222"
+        }
+    ]
+}
